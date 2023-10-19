@@ -2,6 +2,34 @@
     "available_space": true,
     "content": [
         {
+            "id": "9bevnc42BG8",
+            "name": "No. 10： Presto [9bevnc42BG8].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/x3/videos/No. 10： Presto [9bevnc42BG8].mp4",
+            "size": 6.093674999999999,
+            "url": "https://github.com/circuitalmynds/music_x3/blob/main/videos/No. 10： Presto [9bevnc42BG8].mp4?raw=true"
+        },
+        {
+            "id": "-4l19dUl1xI",
+            "name": "Sonata No. 4 in G major (Sonate en sol majeur no 4) , Op. 13 - Presto [-4l19dUl1xI].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/x3/videos/Sonata No. 4 in G major (Sonate en sol majeur no 4) , Op. 13 - Presto [-4l19dUl1xI].mp4",
+            "size": 9.704545,
+            "url": "https://github.com/circuitalmynds/music_x3/blob/main/videos/Sonata No. 4 in G major (Sonate en sol majeur no 4) , Op. 13 - Presto [-4l19dUl1xI].mp4?raw=true"
+        },
+        {
+            "id": "w4LkSRXrK34",
+            "name": "Jungle - Heavy, California [w4LkSRXrK34].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/x3/videos/Jungle - Heavy, California [w4LkSRXrK34].mp4",
+            "size": 15.925923,
+            "url": "https://github.com/circuitalmynds/music_x3/blob/main/videos/Jungle - Heavy, California [w4LkSRXrK34].mp4?raw=true"
+        },
+        {
+            "id": "dFDiO9XKsus",
+            "name": "The Blue Vipers of Brooklyn - Blue Drag [dFDiO9XKsus].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/x3/videos/The Blue Vipers of Brooklyn - Blue Drag [dFDiO9XKsus].mp4",
+            "size": 57.673564,
+            "url": "https://github.com/circuitalmynds/music_x3/blob/main/videos/The Blue Vipers of Brooklyn - Blue Drag [dFDiO9XKsus].mp4?raw=true"
+        },
+        {
             "id": "ViS0V9-zj8c",
             "name": "Franz Ignaz Beck - Symphony in D minor, Op.3, No.5, Callen.17 (1762)-ViS0V9-zj8c.mp4",
             "path": "/home/alanmatzumiya/Videos/container/x3/videos/Franz Ignaz Beck - Symphony in D minor, Op.3, No.5, Callen.17 (1762)-ViS0V9-zj8c.mp4",
@@ -16,11 +44,95 @@
             "url": "https://github.com/circuitalmynds/music_x3/blob/main/videos/Bajo Control-8Xrbd5nDyx0.mp4?raw=true"
         },
         {
+            "id": "nJLb7-m-pAY",
+            "name": "Bela Bartok - String Quartet no  4 [nJLb7-m-pAY].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/x3/videos/Bela Bartok - String Quartet no  4 [nJLb7-m-pAY].mp4",
+            "size": 36.68566,
+            "url": "https://github.com/circuitalmynds/music_x3/blob/main/videos/Bela Bartok - String Quartet no  4 [nJLb7-m-pAY].mp4?raw=true"
+        },
+        {
+            "id": "_MEXvIakfrY",
+            "name": "Twelve Waltzes and Coda： No. 6 [_MEXvIakfrY].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/x3/videos/Twelve Waltzes and Coda： No. 6 [_MEXvIakfrY].mp4",
+            "size": 0.76413,
+            "url": "https://github.com/circuitalmynds/music_x3/blob/main/videos/Twelve Waltzes and Coda： No. 6 [_MEXvIakfrY].mp4?raw=true"
+        },
+        {
+            "id": "aXs0NnGN6Jc",
+            "name": "Royal Philharmonic Orchestra Plays ABBA [aXs0NnGN6Jc].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/x3/videos/Royal Philharmonic Orchestra Plays ABBA [aXs0NnGN6Jc].mp4",
+            "size": 54.597761999999996,
+            "url": "https://github.com/circuitalmynds/music_x3/blob/main/videos/Royal Philharmonic Orchestra Plays ABBA [aXs0NnGN6Jc].mp4?raw=true"
+        },
+        {
+            "id": "Uby1iMtfuCM",
+            "name": "Fela Kuti - Look and Laugh (1&2) [Uby1iMtfuCM].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/x3/videos/Fela Kuti - Look and Laugh (1&2) [Uby1iMtfuCM].mp4",
+            "size": 39.601462999999995,
+            "url": "https://github.com/circuitalmynds/music_x3/blob/main/videos/Fela Kuti - Look and Laugh (1&2) [Uby1iMtfuCM].mp4?raw=true"
+        },
+        {
+            "id": "mGQLXRTl3Z0",
+            "name": "Mischa Maisky plays Bach Cello Suite No.1 in G (full) [mGQLXRTl3Z0].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/x3/videos/Mischa Maisky plays Bach Cello Suite No.1 in G (full) [mGQLXRTl3Z0].mp4",
+            "size": 42.151964,
+            "url": "https://github.com/circuitalmynds/music_x3/blob/main/videos/Mischa Maisky plays Bach Cello Suite No.1 in G (full) [mGQLXRTl3Z0].mp4?raw=true"
+        },
+        {
+            "id": "KVq9bQXHGyc",
+            "name": "A Flock o f Seagulls - 1982 ⧸LP Album [KVq9bQXHGyc].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/x3/videos/A Flock o f Seagulls - 1982 ⧸LP Album [KVq9bQXHGyc].mp4",
+            "size": 61.087163,
+            "url": "https://github.com/circuitalmynds/music_x3/blob/main/videos/A Flock o f Seagulls - 1982 ⧸LP Album [KVq9bQXHGyc].mp4?raw=true"
+        },
+        {
+            "id": "EwlovmzfIgY",
+            "name": "Christmas Eve (English Version) [EwlovmzfIgY].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/x3/videos/Christmas Eve (English Version) [EwlovmzfIgY].mp4",
+            "size": 25.368015999999997,
+            "url": "https://github.com/circuitalmynds/music_x3/blob/main/videos/Christmas Eve (English Version) [EwlovmzfIgY].mp4?raw=true"
+        },
+        {
+            "id": "SGjM5CBzeAM",
+            "name": "No. 5： Allegro [SGjM5CBzeAM].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/x3/videos/No. 5： Allegro [SGjM5CBzeAM].mp4",
+            "size": 8.746527,
+            "url": "https://github.com/circuitalmynds/music_x3/blob/main/videos/No. 5： Allegro [SGjM5CBzeAM].mp4?raw=true"
+        },
+        {
+            "id": "xMMJaAYfiP4",
+            "name": "Mozart： Le nozze di Figaro, K. 492, Act I - Recit. Tutto ancor no ho perso [xMMJaAYfiP4].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/x3/videos/Mozart： Le nozze di Figaro, K. 492, Act I - Recit. Tutto ancor no ho perso [xMMJaAYfiP4].mp4",
+            "size": 1.739004,
+            "url": "https://github.com/circuitalmynds/music_x3/blob/main/videos/Mozart： Le nozze di Figaro, K. 492, Act I - Recit. Tutto ancor no ho perso [xMMJaAYfiP4].mp4?raw=true"
+        },
+        {
             "id": "CvnaTnOxPl4",
             "name": "Liszt - Piano Concerto No. 2 in A Major, S. 125 - I. Adagio sostenuto assai - Allegro agitato assai-CvnaTnOxPl4.mp4",
             "path": "/home/alanmatzumiya/Videos/container/x3/videos/Liszt - Piano Concerto No. 2 in A Major, S. 125 - I. Adagio sostenuto assai - Allegro agitato assai-CvnaTnOxPl4.mp4",
             "size": 4.82722,
             "url": "https://github.com/circuitalmynds/music_x3/blob/main/videos/Liszt - Piano Concerto No. 2 in A Major, S. 125 - I. Adagio sostenuto assai - Allegro agitato assai-CvnaTnOxPl4.mp4?raw=true"
+        },
+        {
+            "id": "aeTkzRgf6v8",
+            "name": "Murray Head ~ One Night In Bangkok⧸Chess Medley 1984 Disco Purrfection Version [aeTkzRgf6v8].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/x3/videos/Murray Head ~ One Night In Bangkok⧸Chess Medley 1984 Disco Purrfection Version [aeTkzRgf6v8].mp4",
+            "size": 20.506407,
+            "url": "https://github.com/circuitalmynds/music_x3/blob/main/videos/Murray Head ~ One Night In Bangkok⧸Chess Medley 1984 Disco Purrfection Version [aeTkzRgf6v8].mp4?raw=true"
+        },
+        {
+            "id": "erJHjruJuQQ",
+            "name": "The Good Life - Lovers Need Lawyers [Official Music Video] [erJHjruJuQQ].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/x3/videos/The Good Life - Lovers Need Lawyers [Official Music Video] [erJHjruJuQQ].mp4",
+            "size": 7.229804,
+            "url": "https://github.com/circuitalmynds/music_x3/blob/main/videos/The Good Life - Lovers Need Lawyers [Official Music Video] [erJHjruJuQQ].mp4?raw=true"
+        },
+        {
+            "id": "tK7H2N1UNSU",
+            "name": "En El Suelo [tK7H2N1UNSU].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/x3/videos/En El Suelo [tK7H2N1UNSU].mp4",
+            "size": 5.520917,
+            "url": "https://github.com/circuitalmynds/music_x3/blob/main/videos/En El Suelo [tK7H2N1UNSU].mp4?raw=true"
         },
         {
             "id": "kW9eWBhbNW8",
@@ -37,11 +149,116 @@
             "url": "https://github.com/circuitalmynds/music_x3/blob/main/videos/Vítězslav Novák - Slovak Suite-fh1WUYDokeU.mp4?raw=true"
         },
         {
+            "id": "hVzJUtdFd-s",
+            "name": "Grant Miller - Colder than Ice [hVzJUtdFd-s].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/x3/videos/Grant Miller - Colder than Ice [hVzJUtdFd-s].mp4",
+            "size": 10.527561,
+            "url": "https://github.com/circuitalmynds/music_x3/blob/main/videos/Grant Miller - Colder than Ice [hVzJUtdFd-s].mp4?raw=true"
+        },
+        {
+            "id": "C7XGTWQ62no",
+            "name": "Baby I Need Your Lovin' [C7XGTWQ62no].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/x3/videos/Baby I Need Your Lovin' [C7XGTWQ62no].mp4",
+            "size": 9.312138,
+            "url": "https://github.com/circuitalmynds/music_x3/blob/main/videos/Baby I Need Your Lovin' [C7XGTWQ62no].mp4?raw=true"
+        },
+        {
+            "id": "RiPfpHGXgnc",
+            "name": "Liszt： Comment, disaient-ils, S.276 [RiPfpHGXgnc].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/x3/videos/Liszt： Comment, disaient-ils, S.276 [RiPfpHGXgnc].mp4",
+            "size": 5.57389,
+            "url": "https://github.com/circuitalmynds/music_x3/blob/main/videos/Liszt： Comment, disaient-ils, S.276 [RiPfpHGXgnc].mp4?raw=true"
+        },
+        {
+            "id": "rKeATtI7Ths",
+            "name": "Merce [rKeATtI7Ths].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/x3/videos/Merce [rKeATtI7Ths].mp4",
+            "size": 3.945668,
+            "url": "https://github.com/circuitalmynds/music_x3/blob/main/videos/Merce [rKeATtI7Ths].mp4?raw=true"
+        },
+        {
+            "id": "G6SYPkKm9Hs",
+            "name": "Julián Carrillo Trujillo (1875-1965) - Primera Suite para Orquesta (1899) [G6SYPkKm9Hs].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/x3/videos/Julián Carrillo Trujillo (1875-1965) - Primera Suite para Orquesta (1899) [G6SYPkKm9Hs].mp4",
+            "size": 52.287427,
+            "url": "https://github.com/circuitalmynds/music_x3/blob/main/videos/Julián Carrillo Trujillo (1875-1965) - Primera Suite para Orquesta (1899) [G6SYPkKm9Hs].mp4?raw=true"
+        },
+        {
+            "id": "7v8zxoEoA_Q",
+            "name": "Vivaldi ： La Follia [7v8zxoEoA_Q].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/x3/videos/Vivaldi ： La Follia [7v8zxoEoA_Q].mp4",
+            "size": 12.045558,
+            "url": "https://github.com/circuitalmynds/music_x3/blob/main/videos/Vivaldi ： La Follia [7v8zxoEoA_Q].mp4?raw=true"
+        },
+        {
+            "id": "1MEU206pS9w",
+            "name": "Paganini： Sei sonate M.S. 27 (op.3) per violino e chitarra ⧸ Sonata n.4 - In A Minor - Andante... [1MEU206pS9w].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/x3/videos/Paganini： Sei sonate M.S. 27 (op.3) per violino e chitarra ⧸ Sonata n.4 - In A Minor - Andante... [1MEU206pS9w].mp4",
+            "size": 4.3681209999999995,
+            "url": "https://github.com/circuitalmynds/music_x3/blob/main/videos/Paganini： Sei sonate M.S. 27 (op.3) per violino e chitarra ⧸ Sonata n.4 - In A Minor - Andante... [1MEU206pS9w].mp4?raw=true"
+        },
+        {
+            "id": "kpDsXIsVpTo",
+            "name": "Paganini： 24 Caprices for Violin, Op. 1 - No. 11 in C [kpDsXIsVpTo].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/x3/videos/Paganini： 24 Caprices for Violin, Op. 1 - No. 11 in C [kpDsXIsVpTo].mp4",
+            "size": 5.946164,
+            "url": "https://github.com/circuitalmynds/music_x3/blob/main/videos/Paganini： 24 Caprices for Violin, Op. 1 - No. 11 in C [kpDsXIsVpTo].mp4?raw=true"
+        },
+        {
+            "id": "Hz3dzTLkt2w",
+            "name": "La plus que lente, CD 128, L. 121 (Arr. Maisky for Cello and Piano) [Hz3dzTLkt2w].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/x3/videos/La plus que lente, CD 128, L. 121 (Arr. Maisky for Cello and Piano) [Hz3dzTLkt2w].mp4",
+            "size": 9.764872,
+            "url": "https://github.com/circuitalmynds/music_x3/blob/main/videos/La plus que lente, CD 128, L. 121 (Arr. Maisky for Cello and Piano) [Hz3dzTLkt2w].mp4?raw=true"
+        },
+        {
+            "id": "FntaPrNMkIM",
+            "name": "Liszt： Consolation No. 5, Andantino [FntaPrNMkIM].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/x3/videos/Liszt： Consolation No. 5, Andantino [FntaPrNMkIM].mp4",
+            "size": 6.5459819999999995,
+            "url": "https://github.com/circuitalmynds/music_x3/blob/main/videos/Liszt： Consolation No. 5, Andantino [FntaPrNMkIM].mp4?raw=true"
+        },
+        {
+            "id": "kcnXW6F-HeE",
+            "name": "The Yam Step (From ＂Carefree＂) [kcnXW6F-HeE].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/x3/videos/The Yam Step (From ＂Carefree＂) [kcnXW6F-HeE].mp4",
+            "size": 9.666127999999999,
+            "url": "https://github.com/circuitalmynds/music_x3/blob/main/videos/The Yam Step (From ＂Carefree＂) [kcnXW6F-HeE].mp4?raw=true"
+        },
+        {
+            "id": "qr6mTloYJJs",
+            "name": "Frank Zappa - Dupree's Paradise (1973) [qr6mTloYJJs].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/x3/videos/Frank Zappa - Dupree's Paradise (1973) [qr6mTloYJJs].mp4",
+            "size": 94.11475999999999,
+            "url": "https://github.com/circuitalmynds/music_x3/blob/main/videos/Frank Zappa - Dupree's Paradise (1973) [qr6mTloYJJs].mp4?raw=true"
+        },
+        {
+            "id": "zyLem5clnfY",
+            "name": "Carmen - Time To Move (1984] HQ Audio [zyLem5clnfY].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/x3/videos/Carmen - Time To Move (1984] HQ Audio [zyLem5clnfY].mp4",
+            "size": 6.846482,
+            "url": "https://github.com/circuitalmynds/music_x3/blob/main/videos/Carmen - Time To Move (1984] HQ Audio [zyLem5clnfY].mp4?raw=true"
+        },
+        {
+            "id": "vFpRHw6lxUs",
+            "name": "The Best of Berlioz [vFpRHw6lxUs].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/x3/videos/The Best of Berlioz [vFpRHw6lxUs].mp4",
+            "size": 74.472056,
+            "url": "https://github.com/circuitalmynds/music_x3/blob/main/videos/The Best of Berlioz [vFpRHw6lxUs].mp4?raw=true"
+        },
+        {
             "id": "gKYopjAyhTs",
             "name": "Bojangles of Harlem (From 'Swing Time')-gKYopjAyhTs.mp4",
             "path": "/home/alanmatzumiya/Videos/container/x3/videos/Bojangles of Harlem (From 'Swing Time')-gKYopjAyhTs.mp4",
             "size": 4.512598,
             "url": "https://github.com/circuitalmynds/music_x3/blob/main/videos/Bojangles of Harlem (From 'Swing Time')-gKYopjAyhTs.mp4?raw=true"
+        },
+        {
+            "id": "9idXAY_wquo",
+            "name": "Baby Please Don't Go [9idXAY_wquo].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/x3/videos/Baby Please Don't Go [9idXAY_wquo].mp4",
+            "size": 10.768901999999999,
+            "url": "https://github.com/circuitalmynds/music_x3/blob/main/videos/Baby Please Don't Go [9idXAY_wquo].mp4?raw=true"
         },
         {
             "id": "PxcOsQqpeBw",
@@ -51,12 +268,54 @@
             "url": "https://github.com/circuitalmynds/music_x3/blob/main/videos/Keyboard Sonata No. 1 in G Major, Hob. XVI, 8 - IV. Allegro-PxcOsQqpeBw.mp4?raw=true"
         },
         {
+            "id": "R7-v1slmarM",
+            "name": "L'Impératrice — Voodoo？ [R7-v1slmarM].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/x3/videos/L'Impératrice — Voodoo？ [R7-v1slmarM].mp4",
+            "size": 36.382988999999995,
+            "url": "https://github.com/circuitalmynds/music_x3/blob/main/videos/L'Impératrice — Voodoo？ [R7-v1slmarM].mp4?raw=true"
+        },
+        {
+            "id": "hfZQG6EW94s",
+            "name": "Ricardo Castro： Cello Concerto in C minor [hfZQG6EW94s].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/x3/videos/Ricardo Castro： Cello Concerto in C minor [hfZQG6EW94s].mp4",
+            "size": 28.710690999999997,
+            "url": "https://github.com/circuitalmynds/music_x3/blob/main/videos/Ricardo Castro： Cello Concerto in C minor [hfZQG6EW94s].mp4?raw=true"
+        },
+        {
+            "id": "xXz_sAUdmI0",
+            "name": "Piano Concerto in A Minor, Op. 85： II. Larghetto [xXz_sAUdmI0].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/x3/videos/Piano Concerto in A Minor, Op. 85： II. Larghetto [xXz_sAUdmI0].mp4",
+            "size": 12.620213,
+            "url": "https://github.com/circuitalmynds/music_x3/blob/main/videos/Piano Concerto in A Minor, Op. 85： II. Larghetto [xXz_sAUdmI0].mp4?raw=true"
+        },
+        {
+            "id": "P6FF3-SWwsE",
+            "name": "Paul Kelly - To Her Door (Official Video) [P6FF3-SWwsE].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/x3/videos/Paul Kelly - To Her Door (Official Video) [P6FF3-SWwsE].mp4",
+            "size": 10.760997999999999,
+            "url": "https://github.com/circuitalmynds/music_x3/blob/main/videos/Paul Kelly - To Her Door (Official Video) [P6FF3-SWwsE].mp4?raw=true"
+        },
+        {
             "id": "PPXq8FdGR1I",
             "name": "OMD - Organisation -1980 _LP Album-PPXq8FdGR1I.mp4",
             "path": "/home/alanmatzumiya/Videos/container/x3/videos/OMD - Organisation -1980 _LP Album-PPXq8FdGR1I.mp4",
             "size": 24.160771999999998,
             "url": "https://github.com/circuitalmynds/music_x3/blob/main/videos/OMD - Organisation -1980 _LP Album-PPXq8FdGR1I.mp4?raw=true"
+        },
+        {
+            "id": "ZomVD5Kb_-o",
+            "name": "Oh, Lady Be Good [ZomVD5Kb_-o].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/x3/videos/Oh, Lady Be Good [ZomVD5Kb_-o].mp4",
+            "size": 13.788603,
+            "url": "https://github.com/circuitalmynds/music_x3/blob/main/videos/Oh, Lady Be Good [ZomVD5Kb_-o].mp4?raw=true"
+        },
+        {
+            "id": "OKm5Enseftg",
+            "name": "Joseph Gungl - Traeume auf dem Ozean (Walzer _ Waltz) [OKm5Enseftg].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/x3/videos/Joseph Gungl - Traeume auf dem Ozean (Walzer _ Waltz) [OKm5Enseftg].mp4",
+            "size": 10.841783,
+            "url": "https://github.com/circuitalmynds/music_x3/blob/main/videos/Joseph Gungl - Traeume auf dem Ozean (Walzer _ Waltz) [OKm5Enseftg].mp4?raw=true"
         }
     ],
-    "total_size": 109.83737799999999
+    "total_size": 932.5248879999998
 }
